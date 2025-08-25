@@ -1,0 +1,29 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+
+Pelo presente instrumento particular, de um lado, a empresa
+**GammaTech Soluções Ltda**, inscrita no CNPJ 22.333.444/0001-66,
+com sede na Rua das Acácias, 789, Belo Horizonte/MG, doravante denominada CONTRATANTE,
+e de outro lado, a empresa
+**DeltaSoft Tecnologia Ltda**, inscrita no CNPJ 77.888.999/0001-11,
+com sede na Avenida Paulista, 1234, São Paulo/SP, doravante denominada CONTRATADA,
+resolvem celebrar o presente Contrato de Prestação de Serviços, que se regerá pelas cláusulas seguintes:
+
+Cláusula 1 – Objeto
+Prestação de serviços de consultoria em tecnologia da informação.
+
+Cláusula 2 – Prazo
+O contrato terá início em 15/10/2025 e término em 15/04/2026.
+
+Cláusula 3 – Valor e forma de pagamento
+O valor total do contrato é de R$ 80.000,00, pagos em 4 parcelas mensais de R$ 20.000,00 cada.
+
+Cláusula 4 – Rescisão
+Em caso de descumprimento, a parte prejudicada poderá rescindir o contrato mediante aviso prévio de 30 dias.
+
+Cláusula 5 – Foro
+Foro da Comarca de Belo Horizonte/MG.
+
+Belo Horizonte, 15 de outubro de 2025.
+
+_________________________           _________________________
+GammaTech Soluções Ltda              DeltaSoft Tecnologia Ltda

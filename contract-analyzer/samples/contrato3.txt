@@ -1,0 +1,29 @@
+CONTRATO DE PRESTAÇÃO DE SERVIÇOS
+
+Pelo presente instrumento particular, de um lado, a empresa
+**Epsilon Serviços Ltda**, inscrita no CNPJ 33.444.555/0001-77,
+com sede na Rua das Palmeiras, 456, Curitiba/PR, doravante denominada CONTRATANTE,
+e de outro lado, a empresa
+**Zeta Solutions Ltda**, inscrita no CNPJ 88.999.000/0001-22,
+com sede na Avenida Central, 321, Porto Alegre/RS, doravante denominada CONTRATADA,
+resolvem celebrar o presente Contrato de Prestação de Serviços, que se regerá pelas cláusulas seguintes:
+
+Cláusula 1 – Objeto
+Serviços de manutenção e atualização de sistemas de software.
+
+Cláusula 2 – Prazo
+O contrato terá início em 01/11/2025 e término em 30/06/2026.
+
+Cláusula 3 – Valor e forma de pagamento
+O valor total do contrato é de R$ 120.000,00, pagos em 6 parcelas mensais de R$ 20.000,00 cada.
+
+Cláusula 4 – Rescisão
+Rescisão mediante descumprimento com aviso prévio de 30 dias.
+
+Cláusula 5 – Foro
+Foro da Comarca de Curitiba/PR.
+
+Curitiba, 01 de novembro de 2025.
+
+_________________________           _________________________
+Epsilon Serviços Ltda              Zeta Solutions Ltda
