@@ -1,6 +1,5 @@
 streamlit
 pytesseract
-pdf2image
 Pillow
 spacy
 transformers
@@ -12,3 +11,6 @@ prophet
 streamlit
 scikit-learn
 statsmodels
+pymupdf
+psycopg2-binary==2.9.7
+sqlalchemy==2.0.23

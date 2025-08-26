@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8501:8501"
+    environment:
+      - DATABASE_URL=postgresql://user:password@db:5432/contract_analyzer
+    depends_on:
+      - db
+    volumes:
+      - ./uploads:/app/uploads  # Persistir uploads localmente
+    
+  db:
+    image: postgres:15-alpine
+    environment:
+      - POSTGRES_DB=contract_analyzer
+      - POSTGRES_USER=user
+      - POSTGRES_PASSWORD=password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+volumes:
+  postgres_data:
