@@ -5,3 +5,10 @@ Pillow
 spacy
 transformers
 torch
+pandas
+numpy
+plotly
+prophet
+streamlit
+scikit-learn
+statsmodels
